@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Roboto-Thin';
+  font-weight: normal;
+  src: url("/fonts/Roboto-Thin.ttf") format("truetype"); }
+
+@font-face {
+  font-family: 'OpenSans-SemiBold';
+  font-weight: normal;
+  src: url("/fonts/OpenSans-SemiBold.ttf") format("truetype"); }
+
+/*# sourceMappingURL=main.css.map*/
